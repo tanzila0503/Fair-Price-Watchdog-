@@ -4,6 +4,10 @@
 ![Role](https://img.shields.io/badge/Role-Presentation%20Designer-purple)
 ![Team](https://img.shields.io/badge/Team-Contributor-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Next.js](https://img.shields.io/badge/Next.js-Team%20Project-black)
+![FastAPI](https://img.shields.io/badge/FastAPI-Team%20Project-teal)
+![CrewAI](https://img.shields.io/badge/CrewAI-Team%20Project-blue)
 
 ---
 
