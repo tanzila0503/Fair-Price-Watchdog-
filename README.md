@@ -1,5 +1,11 @@
-📝 FairPrice Watchdog API
-Python Next.js ReportLab Status License
+# 🚀 FairPrice Watchdog – API 
+
+![Hackathon](https://img.shields.io/badge/Hackathon-Web%20Data%20Unlocked-blue)
+![Role](https://img.shields.io/badge/Role-Presentation%20Designer-purple)
+![Team](https://img.shields.io/badge/Team-Contributor-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+---
 
 https://github.com/Haseeb-1698/fairprice-watchdog
 
