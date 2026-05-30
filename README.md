@@ -2,40 +2,55 @@
 
 https://github.com/Haseeb-1698/fairprice-watchdog
 
-FairPrice Watchdog – Hackathon Contribution
+🚀 FairPrice Watchdog – Hackathon Contribution
 
-Overview
+---
 
-FairPrice Watchdog is an AI-powered platform designed to detect hidden fees, junk fees, and geographic price discrimination across online booking and rental platforms. The system collects evidence, compares pricing across locations, and generates reports that can be used by consumers, regulators, and legal teams.
+🌟 Overview
 
-Original Project Repository
+- FairPrice Watchdog is an AI-powered platform designed to detect hidden fees, junk fees, and geographic price discrimination.
+- The system compares prices across locations and generates evidence-based reports.
+- Built for consumers, regulators, and legal teams.
 
-This project was developed as part of a team during a hackathon.
+---
 
-Main project repository:
-https://github.com/Haseeb-1698/fairprice-watchdog
+🔗 Original Project Repository
 
-My Role
+- This project was developed as part of a hackathon team.
+- Main Project Repository:
+  - https://github.com/Haseeb-1698/fairprice-watchdog
 
-I participated in this hackathon as a team member and contributed to the project presentation and documentation.
+---
 
-Responsibilities
+👩‍💻 My Role
 
-- Created the project pitch deck and presentation slides.
+- Participated as a team member.
+- Contributed to presentation development and project documentation.
+
+📋 Responsibilities
+
+- Created project pitch deck and presentation slides.
 - Designed slide layouts and visual structure.
 - Prepared project overview and problem statement content.
-- Organized deliverables for the final submission.
-- Assisted with presentation flow and storytelling.
+- Organized submission deliverables.
+- Assisted with presentation storytelling and flow.
 
-Key Features of the Project
+---
 
-- Detection of hidden and junk fees.
-- Geographic price discrimination analysis.
-- Evidence collection and reporting.
-- Consumer, Regulator, and Class-Action dashboard views.
-- AI-powered analysis workflow.
+✨ Key Features of the Project
 
-Technologies Used by the Team
+- Hidden fee detection 💰
+- Junk fee identification 🚨
+- Geographic price discrimination analysis 🌎
+- Evidence collection and reporting 📑
+- Consumer Dashboard 👤
+- Regulator Dashboard ⚖️
+- Class-Action Dashboard 👥
+- AI-powered analysis workflow 🤖
+
+---
+
+🛠️ Technologies Used by the Team
 
 - Next.js
 - shadcn/ui
@@ -45,7 +60,9 @@ Technologies Used by the Team
 - PostgreSQL
 - Redis
 
-Team Members
+---
+
+👥 Team Members
 
 - Haseeb
 - Matas
@@ -54,10 +71,18 @@ Team Members
 - Eman Bashir
 - Eman
 
-Repository Purpose
+---
 
-This repository showcases my individual contribution to the FairPrice Watchdog hackathon project, specifically the presentation, documentation, and submission materials.
+🎯 Repository Purpose
 
-Acknowledgment
+- Showcase my contribution to the FairPrice Watchdog hackathon project.
+- Highlight presentation design and documentation work.
+- Maintain records of project-related materials and deliverables.
 
-This repository represents my contribution to the FairPrice Watchdog project. The complete project source code and technical implementation are available in the main team repository linked above.
+---
+
+🙏 Acknowledgment
+
+This repository represents my individual contribution to the FairPrice Watchdog project.
+
+The complete source code, backend services, AI agents, and technical implementation are available in the main team repository linked above.
