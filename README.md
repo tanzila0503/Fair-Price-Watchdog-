@@ -1,4 +1,5 @@
-# Fair-Price-Watchdog-
+📝 FairPrice Watchdog API
+Python Next.js ReportLab Status License
 
 https://github.com/Haseeb-1698/fairprice-watchdog
 
