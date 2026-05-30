@@ -38,6 +38,20 @@ https://github.com/Haseeb-1698/fairprice-watchdog
 - Participated as a team member.
 - Contributed to presentation development and project documentation.
 
+___
+
+
+📄 Presentation & Documentation
+
+Project Presentation (PPT):
+Here is the Link:
+https://1drv.ms/p/c/EBC1CF3CBF0FEFE2/IQDk5e5P3r2_R5d5fNImDOgbAU8WpywWhJlz9CmW60gaUig?e=7p8Tvg
+
+This presentation was prepared as part of my contribution to the FairPrice Watchdog hackathon project. It includes the project overview, problem statement, solution architecture, key features, dashboards, and submission materials.
+
+___
+
+
 📋 Responsibilities
 
 - Created project pitch deck and presentation slides.
