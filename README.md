@@ -164,3 +164,11 @@ ___
 This repository represents my individual contribution to the FairPrice Watchdog project.
 
 The complete source code, backend services, AI agents, and technical implementation are available in the main team repository linked above.
+
+___
+
+Created with 🫀 and 🧠 by Tanzila Anwar 
+
+___
+
+
