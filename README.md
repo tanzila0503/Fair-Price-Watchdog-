@@ -16,11 +16,6 @@ AI agents that catch hidden fees & geographic price discrimination — live, wit
 **Web Data UNLOCKED Hackathon (Bright Data)** — submitted to **Security & Compliance** (primary) and **Finance & Market Intelligence**, with the **AI/ML API Challenge** (AIMLAPI vision + reasoning).
 
 Built on the Bright Data web-data stack.
----
-
-https://github.com/Haseeb-1698/fairprice-watchdog
-
-🚀 FairPrice Watchdog – Hackathon Contribution
 
 ---
 
