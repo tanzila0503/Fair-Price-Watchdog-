@@ -87,14 +87,16 @@ ___
 
 ---
 
-👥 Team
-Member	Role
-Haseeb (Takochi)	Tech Lead & Agent Architect — pipeline, Bright Data, vision, evidence vault, deploy
-Eman	Backend Engineer & DevOps — FastAPI, Postgres, evidence service, PDF generator
-Tanzila	Frontend Lead & Visual Design
-Eman Bashir	Frontend Support & PDF Generator
-Matas (MrCheese)	Domain Research — FTC taxonomy, enforcement sourcing
-Tom (MrSlime)	Business Model & Market Sizing
+## 👥 Team
+
+| Member | Role |
+|---------|---------|
+| **Haseeb (Takochi)** | Tech Lead & Agent Architect — pipeline, Bright Data, vision, evidence vault, deployment |
+| **Eman** | Backend Engineer & DevOps — FastAPI, PostgreSQL, evidence service, PDF generator |
+| **Tanzila** | Frontend Lead & Visual Design |
+| **Eman Bashir** | Frontend Support & PDF Generator |
+| **Matas (MrCheese)** | Domain Research — FTC taxonomy, enforcement sourcing |
+| **Tom (MrSlime)** | Business Model & Market Sizing |
 
 ---
 
