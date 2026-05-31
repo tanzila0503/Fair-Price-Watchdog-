@@ -103,12 +103,15 @@ ___
 
   ___
 
-✨ What Makes It Different
+## ✨ What Makes It Different
 
-It reads prices like a human. When a site renders prices in JavaScript (invisible to raw scraping), the agent captures a fully-rendered screenshot via the Bright Data Browser API and a vision model reads the price off the image — no brittle selectors.
-It never hangs. Every fetch has a hard deadline and falls back gracefully (Web Unlocker → Residential → Browser API → honest "mock" label). A blocked site degrades to a labeled result, never a frozen demo.
-It's honest. Every result is tagged live / partial / mock. We never present synthetic data as real.
-It's court-ready. Every HTML + screenshot capture is SHA-256 hashed and embedded in a filable FTC complaint PDF.
+- **It reads prices like a human.** When a site renders prices in JavaScript (invisible to raw scraping), the agent captures a fully-rendered screenshot via the Bright Data Browser API, and a vision model reads the price directly from the image — no brittle selectors.
+
+- **It never hangs.** Every fetch has a hard deadline and falls back gracefully (Web Unlocker → Residential → Browser API → honest "mock" label). A blocked site degrades to a labeled result, never a frozen demo.
+
+- **It's honest.** Every result is tagged **live / partial / mock**. We never present synthetic data as real.
+
+- **It's court-ready.** Every HTML and screenshot capture is SHA-256 hashed and embedded in a filable FTC complaint PDF.
 
 ---
 
