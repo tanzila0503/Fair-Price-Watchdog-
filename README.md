@@ -64,7 +64,11 @@ ___
 
 - This project was developed as part of a hackathon team.
 - Team Leader Project Repository:
-  - https://github.com/Haseeb-1698/fairprice-watchdog
+  
+| Link | URL |
+|------|-----|
+| Repository | https://github.com/Haseeb-1698/pdc-console |
+
 
 ---
 
