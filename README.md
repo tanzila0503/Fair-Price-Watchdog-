@@ -35,7 +35,7 @@ Built on the Bright Data web-data stack.
 
 ---
 
- 🚨 The Problem
+ ## 🚨 The Problem
 
 US consumers lose an estimated $64 billion a year to drip pricing and hidden fees. In May 2025 the FTC's Junk Fees Rule (16 CFR Part 464) made undisclosed mandatory fees illegal across all 50 states — with penalties up to $51,744 per violation. Enforcement is already landing: Greystar ($23M), Invitation Homes ($48M).
 
@@ -61,7 +61,7 @@ A swarm of six specialized agents takes a single URL and produces a filable comp
 ___
 
 
-🔗 Original Project Repository
+## 🔗 Original Project Repository
 
 - This project was developed as part of a hackathon team.
 - Team Leader Project Repository:
@@ -73,7 +73,7 @@ ___
 
 ---
 
-👩‍💻 My Role
+## 👩‍💻 My Role
 
 - Participated as a team member.
 - Contributed to presentation development and project documentation.
@@ -81,7 +81,7 @@ ___
 ___
 
 
-📄 Presentation & Documentation
+## 📄 Presentation & Documentation
 
 Project Presentation (PPT):
 Here is the Link:
@@ -92,7 +92,7 @@ This presentation was prepared as part of my contribution to the FairPrice Watch
 ___
 
 
-📋 Responsibilities
+## 📋 Responsibilities
 
 - Created project pitch deck and presentation slides.
 - Designed slide layouts and visual structure.
@@ -102,7 +102,7 @@ ___
 
 ---
 
-✨ Key Features of the Project
+## ✨ Key Features of the Project
 
 - Hidden fee detection 💰
 - Junk fee identification 🚨
@@ -127,7 +127,7 @@ ___
 
 ---
 
-🛠️ Technologies Used by the Team
+## 🛠️ Technologies Used by the Team
 
 - Next.js
 - shadcn/ui
@@ -152,7 +152,7 @@ ___
 
 ---
 
-🎯 Repository Purpose
+## 🎯 Repository Purpose
 
 - Showcase my contribution to the FairPrice Watchdog hackathon project.
 - Highlight presentation design and documentation work.
@@ -160,7 +160,7 @@ ___
 
 ---
 
-🙏 Acknowledgment
+## 🙏 Acknowledgment
 
 This repository represents my individual contribution to the FairPrice Watchdog project.
 
@@ -168,7 +168,7 @@ The complete source code, backend services, AI agents, and technical implementat
 
 ___
 
-Created with 🫀 and 🧠 by Tanzila Anwar 
+**Created with 🫀 and 🧠 by Tanzila Anwar** 
 
 ___
 
