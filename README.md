@@ -26,11 +26,12 @@ Built on the Bright Data web-data stack.
 
 ---
 
-🌟 Overview
+🌟 Project Overview
 
 - FairPrice Watchdog is an AI-powered platform designed to detect hidden fees, junk fees, and geographic price discrimination.
 - The system compares prices across locations and generates evidence-based reports.
 - Built for consumers, regulators, and legal teams.
+  ![FairPrice Watchdog](IMG_20260624_110159.png)
 
 ---
 
