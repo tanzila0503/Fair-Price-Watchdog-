@@ -3,10 +3,9 @@
 
 ___
 
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Tanzila+Anwar+%7C+Frontend+Lead+%26+Visual+Designer" />
-</h1>
+<h1 align="center">  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Tanzila+Anwar;Frontend+Lead+%26+Visual+Designer" alt="Typing SVG" />  
+</h1>  
 
 ___
 
