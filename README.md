@@ -35,13 +35,14 @@ Built on the Bright Data web-data stack.
 
 ---
 
+> [!IMPORTANT]
 > **🚨 The Problem**
-
 > US consumers lose an estimated $64 billion a year to drip pricing and hidden fees. In May 2025 the FTC's Junk Fees Rule (16 CFR Part 464) made undisclosed mandatory fees illegal across all 50 states — with penalties up to $51,744 per violation. Enforcement is already landing: Greystar ($23M), Invitation Homes ($48M).
 >
 > But there's a bottleneck: the same listing can cost a shopper in London more than one in New York, at the same moment — and nobody can prove it at scale. Regulators and class-action firms need timestamped, tamper-proof evidence. Collecting it by hand doesn't scale.
 >
 > FairPrice Watchdog is the picks-and-shovels for that evidence.
+
 
 
 ___
