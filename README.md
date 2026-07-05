@@ -11,14 +11,20 @@ ___
 
 AI agents that catch hidden fees & geographic price discrimination — live, with court-ready, hash-sealed evidence across 29 jurisdictions.
 
-![Hackathon](https://img.shields.io/badge/Hackathon-Web%20Data%20Unlocked-blue)
-![Role](https://img.shields.io/badge/Role-Presentation Designer%20Designer-purple)
-![Team](https://img.shields.io/badge/Team-Contributor-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![Next.js](https://img.shields.io/badge/Next.js-Team%20Project-black)
-![FastAPI](https://img.shields.io/badge/FastAPI-Team%20Project-teal)
-![CrewAI](https://img.shields.io/badge/CrewAI-Team%20Project-blue)
+<p>
+  <img src="https://img.shields.io/badge/Hackathon-Web_Data_Unlocked-blue" alt="Hackathon">
+  <img src="https://img.shields.io/badge/Role-Frontend_Lead_%26_Visual_Designer-purple" alt="Role">
+  <br>
+  <img src="https://img.shields.io/badge/Team-Contributor-green" alt="Team">
+  <img src="https://img.shields.io/badge/License-MIT-yellow" alt="License">
+  <img src="https://img.shields.io/badge/Status-Completed-green" alt="Status">
+  <br>
+  <img src="https://img.shields.io/badge/Next.js-Team_Project-black" alt="Next.js">
+  <img src="https://img.shields.io/badge/FastAPI-Team_Project-teal" alt="FastAPI">
+  <br>
+  <img src="https://img.shields.io/badge/CrewAI-Team_Project-blue" alt="CrewAI">
+</p>
+
 
 **Web Data UNLOCKED Hackathon (Bright Data)** — submitted to **Security & Compliance** (primary) and **Finance & Market Intelligence**, with the **AI/ML API Challenge** (AIMLAPI vision + reasoning).
 
