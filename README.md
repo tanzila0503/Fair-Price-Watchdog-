@@ -12,7 +12,7 @@ ___
 AI agents that catch hidden fees & geographic price discrimination — live, with court-ready, hash-sealed evidence across 29 jurisdictions.
 
 ![Hackathon](https://img.shields.io/badge/Hackathon-Web%20Data%20Unlocked-blue)
-![Role](https://img.shields.io/badge/Role-Presentation%20Designer-purple)
+![Role](https://img.shields.io/badge/Role-Fronted Lead and Visual Designer%20Designer-purple)
 ![Team](https://img.shields.io/badge/Team-Contributor-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
