@@ -72,7 +72,7 @@ A swarm of six specialized agents takes a single URL and produces a filable comp
 ___
 
 
-## 🔗 Original Project Repository
+## 🔗 Team Leader Repository
 
 - This project was developed as part of a hackathon team.
 - Team Leader Project Repository:
@@ -125,6 +125,15 @@ ___
 - AI-powered analysis workflow 🤖
 
   ___
+
+
+## 💡 Key Features
+
+*   **Automated Tracking:** Real-time monitoring of e-commerce pricing engines.
+*   **Evidence Vault:** Generating timestamped, tamper-proof logs for legal audits.
+*   **Regulatory Compliance:** Direct mapping to FTC 16 CFR Part 464 requirements.
+
+---
 
 ## ✨ What Makes It Different
 
