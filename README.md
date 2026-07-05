@@ -127,14 +127,6 @@ ___
   ___
 
 
-## 💡 Key Features
-
-*   **Automated Tracking:** Real-time monitoring of e-commerce pricing engines.
-*   **Evidence Vault:** Generating timestamped, tamper-proof logs for legal audits.
-*   **Regulatory Compliance:** Direct mapping to FTC 16 CFR Part 464 requirements.
-
----
-
 ## ✨ What Makes It Different
 
 - **It reads prices like a human.** When a site renders prices in JavaScript (invisible to raw scraping), the agent captures a fully-rendered screenshot via the Bright Data Browser API, and a vision model reads the price directly from the image — no brittle selectors.
