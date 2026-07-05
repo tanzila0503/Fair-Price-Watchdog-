@@ -43,10 +43,15 @@ Built on the Bright Data web-data stack.
 >
 > FairPrice Watchdog is the picks-and-shovels for that evidence.
 
-
-
-
 ___
+
+
+## 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![LLMs](https://img.shields.io/badge/LLMs-7b2cbf?style=for-the-badge&logo=openai&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-005f73?style=for-the-badge&logo=pandas&logoColor=white)
+
 
 ## 🚀 What It Does
 
