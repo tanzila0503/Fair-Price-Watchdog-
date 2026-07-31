@@ -102,7 +102,7 @@ ___
 
 Project Presentation (PPT):
 Here is the Link:
-[View PowerPoint Presentation](./Fair%20Price%20Watchdog.pptx)
+https://1drv.ms/p/c/EBC1CF3CBF0FEFE2/IQDk5e5P3r2_R5d5fNImDOgbAVRIQVGsmZIGljfhO2Rf0dI?e=tutSDe
 
 This presentation was prepared as part of my contribution to the FairPrice Watchdog hackathon project. It includes the project overview, problem statement, solution architecture, key features, dashboards, and submission materials.
 
